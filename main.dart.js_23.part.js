@@ -166,13 +166,13 @@ k=A.v(18)
 l=y.p
 k=A.E(m,A.J(A.a([A.d("\u0627\u0644\u0646\u0647\u0627\u0631\u062f\u0647 "+A.n(C.lV.h(0,A.jK(n.gnI()))),m,m,m,m,m,D.bkp,m,m,m),C.ak,A.d(B.cfT(j),m,m,m,m,m,D.bjf,m,m,m),A.d(B.cfS(n.gnI())+" \u0645",m,m,m,m,m,D.blH,m,m,m)],l),C.h,C.d,C.e,0,C.l),C.k,m,m,new A.F(C.w,m,m,k,m,m,m,C.n),m,m,m,C.aM,C.b3,m,m,m)
 x=A.a([],y.H)
-for(w=y._,v=0;v<5;++v){u=D.aLe[v]
+for(w=y._,v=0;v<5;++v){u=D.aLd[v]
 if(u===0)t="\u0628\u062f\u0648\u0646"
 else{t=u>0?"+":"\u2212"
 t+=E.bq(Math.abs(u))}x.push(new A.eh(u,m,A.d(t,m,m,m,m,m,m,m,C.z,m),w))}w=y.S
 t=y.b
 w=A.a([k,new E.dG(A.J(A.a([D.bru,D.bzB,C.B,A.nH(new B.bvI(n),x,A.dh([n.d],w),!1,A.kB(m,m,m,new A.bh(new B.bvJ(),t),m,m,m,m,new A.bh(new B.bvK(),t),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),w)],l),C.a9,C.d,C.e,0,C.l),C.a7,C.aM,m,!1,m),D.aZR],l)
-for(v=0;v<5;++v){s=D.aPY[v]
+for(v=0;v<5;++v){s=D.aPX[v]
 r=n.e
 if(r===$){k=A.jt()
 x=Date.now()
@@ -190,7 +190,7 @@ return I.y1(m,w,"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0647\u
 aXI(){var x,w,v,u=this,t=null,s=u.guL(),r=u.guL(),q=u.d,p=B.c8R(B.a5H(s.a,r.b,1)-q),o=B.crz(u.guL().a,u.guL().b),n=p.ee(A.du(o-1,0,0,0,0,0).a),m=C.j.a3(A.jK(p)+1,7),l=A.bv(p)===A.bv(n)?C.i2[A.bv(p)-1]+" "+E.bq(A.br(p)):C.i2[A.bv(p)-1]+" \u2013 "+C.i2[A.bv(n)-1]+" "+E.bq(A.br(n))
 s=y.p
 r=A.a([],s)
-for(x=0;x<7;++x)r.push(new A.ce(C.P,t,t,A.d(D.aJg[x],t,t,t,t,t,C.uD,t,t,t),t))
+for(x=0;x<7;++x)r.push(new A.ce(C.P,t,t,A.d(D.aJf[x],t,t,t,t,t,C.uD,t,t,t),t))
 for(w=0;w<m;++w)r.push(C.b0)
 for(v=1;v<=o;++v)r.push(new A.f0(new B.bvC(u,p,v),t))
 return new E.dG(A.J(A.a([A.z(A.a([A.bP(t,t,t,t,D.au4,t,t,new B.bvD(u),t,t,t,t,t),A.Q(A.J(A.a([A.d(D.zq[u.guL().b-1]+" "+E.bq(u.guL().a)+" \u0647\u0640",t,t,t,t,t,C.bA,t,t,t),A.d(l,t,t,t,t,t,G.aP,t,t,t)],s),C.h,C.d,C.e,0,C.l),1),A.bP(t,t,t,t,D.auD,t,t,new B.bvE(u),t,t,t,t,t)],s),C.h,C.d,C.e,0,t,t),A.ck0(0.95,r,7,0,0,C.oy,!0),A.b2(D.bze,t,t,t,new B.bvF(u),t,t)],s),C.h,C.d,C.e,0,C.l),C.a7,C.aM,t,!1,t)},
@@ -382,7 +382,7 @@ if(w==null)w=x.c.a
 return x.a.w=new B.oy(w,x.d.b,x.e)},
 $S:0};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.a7,[B.oy,B.wh])
-x(A.ln,[B.c72,B.bvM,B.bvL,B.bvG,B.bvH,B.bvD,B.bvE,B.bvF,B.bvB,B.bvu,B.bvt,B.bvs,B.bvr,B.bvq,B.bvp])
+x(A.lm,[B.c72,B.bvM,B.bvL,B.bvG,B.bvH,B.bvD,B.bvE,B.bvF,B.bvB,B.bvu,B.bvt,B.bvs,B.bvr,B.bvq,B.bvp])
 x(A.iQ,[B.c8v,B.c8u,B.bvI,B.bvK,B.bvJ,B.bvC,B.bvv,B.bvw,B.bvx,B.bvy,B.bvz,B.bvA])
 w(B.wg,A.K)
 w(B.arP,A.N)})()
@@ -393,14 +393,14 @@ D.au4=new A.G(H.HY,null,C.i,null,null,null)
 D.auD=new A.G(C.jS,null,C.i,null,null,null)
 D.aEv=x(["010010111101","001000111101","100100011101","101010010101","101101001010","101101011010","010101101101","001010110110","100100111011","010010011011","011001010101","011010101001","011101010100","101101101010","010101101100","101010101101","010101010101","101100101001","101110010010","101110101001","010111010100","101011011010","010101011010","101010101011","010110010101","011101001001","011101100100","101110101010","010110110101","001010110110","101001010110","110100101010","111010010101","011100101010","011101010101","001101011010","100101011101","010010011011","101001001101","110100100110","110101010011","010110101010","101010101101","010010110110","101001010111","010100100111","101010010101","101101001010","101101010101","001101101100","100110101110","010010110110","101010010110","101101001010","110110100101","010111010010","010111011001","001011011100","100101101101","010010101101","011001010101","011011010010","101101101001","001101110100","100110110110","010011010111","001010101011","010101001011","011010100101","011101010010","101101101001","010101101011","001010101101","100101001101","110010010101","110101001010","111010100101","011011001010","101011010101","010101010110","110010010111"],y.s)
 D.zq=x(["\u0645\u062d\u0631\u0645","\u0635\u0641\u0631","\u0631\u0628\u064a\u0639 \u0627\u0644\u0623\u0648\u0644","\u0631\u0628\u064a\u0639 \u0627\u0644\u0622\u062e\u0631","\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649","\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0622\u062e\u0631\u0629","\u0631\u062c\u0628","\u0634\u0639\u0628\u0627\u0646","\u0631\u0645\u0636\u0627\u0646","\u0634\u0648\u0627\u0644","\u0630\u0648 \u0627\u0644\u0642\u0639\u062f\u0629","\u0630\u0648 \u0627\u0644\u062d\u062c\u0629"],y.s)
-D.aJg=x(["\u0633\u0628\u062a","\u062d\u062f","\u0627\u062a\u0646\u064a\u0646","\u062a\u0644\u0627\u062a","\u0623\u0631\u0628\u0639","\u062e\u0645\u064a\u0633","\u062c\u0645\u0639\u0629"],y.s)
-D.aLe=x([-2,-1,0,1,2],y.t)
+D.aJf=x(["\u0633\u0628\u062a","\u062d\u062f","\u0627\u062a\u0646\u064a\u0646","\u062a\u0644\u0627\u062a","\u0623\u0631\u0628\u0639","\u062e\u0645\u064a\u0633","\u062c\u0645\u0639\u0629"],y.s)
+D.aLd=x([-2,-1,0,1,2],y.t)
 D.ao9=new B.wh("\u0623\u0648\u0644 \u0631\u0645\u0636\u0627\u0646",9,1)
 D.ao8=new B.wh("\u0639\u064a\u062f \u0627\u0644\u0641\u0637\u0631",10,1)
 D.aob=new B.wh("\u064a\u0648\u0645 \u0639\u0631\u0641\u0629",12,9)
 D.aoa=new B.wh("\u0639\u064a\u062f \u0627\u0644\u0623\u0636\u062d\u0649",12,10)
 D.aoc=new B.wh("\u0631\u0623\u0633 \u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u0647\u062c\u0631\u064a\u0629 (\u0661 \u0645\u062d\u0631\u0645)",1,1)
-D.aPY=x([D.ao9,D.ao8,D.aob,D.aoa,D.aoc],A.af("H<wh>"))
+D.aPX=x([D.ao9,D.ao8,D.aob,D.aoa,D.aoc],A.af("H<wh>"))
 D.am1=new A.T(2,14,2,8)
 D.bqn=new A.m("\u062d\u0648\u0651\u0644 \u062a\u0627\u0631\u064a\u062e",null,C.bA,null,null,null,null,null,null,null,null)
 D.aYR=new A.A(D.am1,D.bqn,null)
@@ -422,4 +422,4 @@ D.a2j=new A.r(!0,C.ao,null,null,null,null,null,C.R,null,null,null,null,null,null
 D.bB4=new A.m("\u0645\u0646 \u0645\u064a\u0644\u0627\u062f\u064a \u0644\u0647\u062c\u0631\u064a",null,D.a2j,null,null,null,null,null,null,null,null)
 D.bCN=new A.m("\u0645\u0646 \u0647\u062c\u0631\u064a \u0644\u0645\u064a\u0644\u0627\u062f\u064a",null,D.a2j,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"cXt","chB",()=>new B.c72().$0())})()};
-(a=>{a["uTEV/QvYQ0vXSSwyiTfgM03G//U="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["uQr4Gtbr9iqrXXqUp2Co/FFqEPE="]=a.current})($__dart_deferred_initializers__);
