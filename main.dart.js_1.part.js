@@ -239,24 +239,24 @@ case 2:v.GN()
 return A.h(null,w)}})
 return A.i($async$BF,w)},
 t(d){var x,w,v,u=this,t=null,s=u.d,r=F.csp(s.a.a),q=E.Kq(d),p=E.Ns(d),o=y.p
-p=A.aO(A.a([A.bP(t,t,t,t,O.IN,t,t,new D.bO6(d),t,t,t,"\u0645\u0635\u062f\u0631 \u0627\u0644\u0646\u0635 \u0648\u0627\u0644\u062e\u0637",t)],o),C.dh,t,!0,!0,C.ah,t,1,t,t,t,!1,t,!1,C.i,C.dh,t,t,!0,t,t,t,t,t,B.bq6,t,p,t,1,t,!0)
+p=A.aO(A.a([A.bP(t,t,t,t,O.IN,t,t,new D.bO6(d),t,t,t,"\u0645\u0635\u062f\u0631 \u0627\u0644\u0646\u0635 \u0648\u0627\u0644\u062e\u0637",t)],o),C.dh,t,!0,!0,C.ah,t,1,t,t,t,!1,t,!1,C.i,C.dh,t,t,!0,t,t,t,t,t,B.bqa,t,p,t,1,t,!0)
 x=A.a([],o)
 w=u.e
 if(w!=null){w=A.d(F.kw(w.a)+" \u2014 \u0622\u064a\u0629 "+E.bp(u.e.b),t,t,t,t,t,G.bF,t,t,t)
 v=u.e
-x.push(new E.dG(A.z(A.a([B.ark,C.a0,A.Q(A.J(A.a([B.bBA,w,A.d("\u0627\u0644\u062c\u0632\u0621 "+E.bp(D.crx(v.a,v.b)),t,t,t,t,t,C.aP,t,t,t)],o),C.r,C.d,C.e,0,C.l),1),M.nX],o),C.h,C.d,C.e,0,t,t),C.a9,C.aO,new D.bO7(u),!0,t))}w=C.i.ae(0.08)
+x.push(new E.dG(A.z(A.a([B.arm,C.a0,A.R(A.J(A.a([B.bBB,w,A.d("\u0627\u0644\u062c\u0632\u0621 "+E.bp(D.crx(v.a,v.b)),t,t,t,t,t,C.aP,t,t,t)],o),C.r,C.d,C.e,0,C.l),1),M.nX],o),C.h,C.d,C.e,0,t,t),C.a9,C.aO,new D.bO7(u),!0,t))}w=C.i.ae(0.08)
 x.push(A.ay(t,C.o,!1,t,!0,C.m,t,A.az(),s,t,t,t,t,t,2,A.cK(t,new A.cp(4,A.u(14),C.J),t,t,t,t,t,t,!0,t,t,t,t,t,t,w,!0,t,t,t,t,t,t,t,t,t,t,t,t,t,C.pa,"\u062f\u0648\u0651\u0631 \u0639\u0644\u0649 \u0633\u0648\u0631\u0629 \u0628\u0627\u0644\u0627\u0633\u0645 \u0623\u0648 \u0627\u0644\u0631\u0642\u0645\u2026",t,t,t,t,t,t,t,t,t,!0,!0,!1,t,C.rk,t,t,t,t,t,t,t,t,t,t,t,t),C.q,!0,t,!0,t,!1,t,C.D,t,t,t,t,t,t,t,t,t,1,t,t,!1,"\u2022",t,new D.bO8(u),t,t,t,!1,t,t,!1,t,!0,t,C.C,t,t,t,t,t,t,t,t,t,t,t,C.d2,!0,C.u,t,C.E,t,t,t,t))
 x.push(C.v)
 if(C.c.K(s.a.a).length===0){w=y.y
 v=y.b
-x.push(A.nE(new D.bO9(u),B.aNJ,A.dg([u.f],w),!0,A.kz(t,t,t,new A.bf(new D.bOa(),v),t,t,t,t,new A.bf(new D.bOb(),v),t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t),w))}x.push(C.A)
+x.push(A.nE(new D.bO9(u),B.aNM,A.dg([u.f],w),!0,A.kz(t,t,t,new A.bf(new D.bOa(),v),t,t,t,t,new A.bf(new D.bOb(),v),t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t),w))}x.push(C.A)
 o=A.a([new A.mQ(new A.T(q,8,q,0),H.cmS(x),t)],o)
 if(u.f&&C.c.K(s.a.a).length===0)o.push(new A.mQ(new A.T(q,0,q,40),H.ajz(new D.bOc(u),30),t))
 else{s=r.length
-if(s===0)o.push(B.bcs)
+if(s===0)o.push(B.bcv)
 else o.push(new A.mQ(new A.T(q,0,q,40),H.ajz(new D.bOd(u,r),s),t))}return A.aL(p,C.ah,A.Pw(t,t,o),t,t,t,t,t,t)},
 alc(d,e,f,g){var x=null,w=y.p
-return new E.dG(A.z(A.a([new D.Oj(d,38,C.x,C.i,!1,x),C.cr,A.Q(A.J(A.a([A.d(g,x,x,x,x,x,G.bF,x,x,x),A.d(f,x,x,x,x,x,C.aP,x,x,x)],w),C.r,C.d,C.e,0,C.l),1),C.z2],w),C.h,C.d,C.e,0,x,x),C.qC,C.by,e,!1,x)}}
+return new E.dG(A.z(A.a([new D.Oj(d,38,C.x,C.i,!1,x),C.cr,A.R(A.J(A.a([A.d(g,x,x,x,x,x,G.bF,x,x,x),A.d(f,x,x,x,x,x,C.aP,x,x,x)],w),C.r,C.d,C.e,0,C.l),1),C.z5],w),C.h,C.d,C.e,0,x,x),C.qC,C.by,e,!1,x)}}
 D.Oj.prototype={
 t(d){var x=this,w=null,v=E.bp(x.c),u=x.d,t=x.e,s=x.r?t.ae(0.35):w,r=v.length>2?0.3:0.36
 return A.am(A.hc(A.bK(A.d(v,w,w,w,w,w,A.bC(w,w,x.f,w,w,w,w,w,w,w,w,u*r,w,w,C.S,w,1,!0,w,w,w,w,w,w,w,w),w,w,C.aW),w,w),w,w,new D.axj(t,s,w),C.aA),u,u)}}
@@ -375,51 +375,51 @@ t=Math.min(v,u+6-1)
 s=A.a([],y.R)
 for(r=u;r<=t;++r){q=F.Nz(x,r,h.f.a[w][r-1])
 p=J.k(h.y,new A.V(x,r))
-if(p)f=B.bi4
+if(p)f=B.bi7
 else{f=h.gS_()
-f=r===f&&f!==1?B.bkC:g}s.push(new A.eT(q.b+" ",g,g,C.bz,g,g,g,g,g,g,f))
-s.push(new A.uA(A.hS(g,new A.A(C.Ge,new D.Oj(r,C.f.d1(h.w*1.15,24,46),B.EV,B.af8,p,g),g),C.q,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new D.bXX(h,r),g,g,g,g,g,g,!1,C.cx),C.At,g,g))
-s.push(N.BT)}f=h.c
+f=r===f&&f!==1?B.bkG:g}s.push(new A.eT(q.b+" ",g,g,C.bz,g,g,g,g,g,g,f))
+s.push(new A.uA(A.hS(g,new A.A(C.Gh,new D.Oj(r,C.f.d1(h.w*1.15,24,46),B.EY,B.af7,p,g),g),C.q,!1,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new D.bXX(h,r),g,g,g,g,g,g,!1,C.cx),C.Aw,g,g))
+s.push(N.BW)}f=h.c
 f.toString
 f=E.Kq(f)
 o=y.p
 n=A.a([],o)
 if(d===0){m=I.cX[w]
 w=A.u(14)
-l=A.aJ(B.EV,1.4)
+l=A.aJ(B.EY,1.4)
 k=F.kw(x)
 k=A.d(k,g,g,g,g,g,A.bC(g,g,B.qj,g,g,g,g,g,h.x?"AmiriQuranMT":g,g,g,24,g,g,C.S,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)
 j=m.a
 i=j[2]?"\u0645\u0643\u064a\u0629":"\u0645\u062f\u0646\u064a\u0629"
-o=A.a([A.E(g,A.J(A.a([k,A.d(i+" \u2022 "+E.bp(j[1])+" \u0622\u064a\u0629",g,g,g,g,g,B.bk3,g,g,g),A.eY(B.avn,g,B.boD,h.gaiv(),A.jO(g,g,g,g,g,g,g,g,g,B.af3,g,g,g,g,g,g,g,g,g,C.cS))],o),C.h,C.d,C.e,0,C.l),C.k,g,g,new A.G(B.ED,g,l,w,g,g,g,C.n),g,g,g,C.iv,C.qD,g,g,g)],o)
+o=A.a([A.E(g,A.J(A.a([k,A.d(i+" \u2022 "+E.bp(j[1])+" \u0622\u064a\u0629",g,g,g,g,g,B.bk6,g,g,g),A.eY(B.avq,g,B.boH,h.gaiv(),A.jO(g,g,g,g,g,g,g,g,g,B.af2,g,g,g,g,g,g,g,g,g,C.cS))],o),C.h,C.d,C.e,0,C.l),C.k,g,g,new A.G(B.EG,g,l,w,g,g,g,C.n),g,g,g,C.iv,C.qD,g,g,g)],o)
 if(x!==1&&x!==9){x=F.Nz(x,1,h.f.yi(x,1)).a
 if(x==null)x="\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0640\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650"
 o.push(new A.A(C.by,A.d(x,g,g,g,g,g,h.gakl().aqI(h.w*0.95),C.X,g,g),g))}n.push(A.J(o,C.h,C.d,C.e,0,C.l))}n.push(A.Dv(A.ex(s,g,g,g,g,g,g,g,g,g,g),g,g,h.gakl(),C.mg,C.bb))
 if(t===v)n.push(h.aNT())
 return new A.A(new A.T(f,0,f,0),A.J(n,C.aa,C.d,C.e,0,C.l),g)},
 aNT(){var x=null,w=A.a([],y.p),v=this.glV(),u=v>1
-if(u)w.push(A.Q(A.d7(B.asp,A.d(F.kw(v-1),x,x,C.O,x,x,x,x,x,x),new D.bY2(this),x),1))
+if(u)w.push(A.R(A.d7(B.asr,A.d(F.kw(v-1),x,x,C.O,x,x,x,x,x,x),new D.bY2(this),x),1))
 if(u&&v<114)w.push(C.a0)
-if(v<114)w.push(A.Q(A.fm(C.rg,x,A.d(F.kw(v+1),x,x,C.O,x,x,x,x,x,x),new D.bY3(this),x),1))
-return new A.A(B.ajX,A.z(w,C.h,C.d,C.e,0,x,x),x)},
+if(v<114)w.push(A.R(A.fm(C.rg,x,A.d(F.kw(v+1),x,x,C.O,x,x,x,x,x,x),new D.bY3(this),x),1))
+return new A.A(B.ajW,A.z(w,C.h,C.d,C.e,0,x,x),x)},
 t(d){var x,w,v,u,t=this,s=null,r=t.f
-if(t.r!=null)x=A.bK(A.J(A.a([B.bB4,C.v,A.d1(C.mr,s,t.gb1J(),s)],y.p),C.h,C.d,C.H,0,C.l),s,s)
-else if(r==null)x=B.ab4
+if(t.r!=null)x=A.bK(A.J(A.a([B.bB5,C.v,A.d1(C.mr,s,t.gb1J(),s)],y.p),C.h,C.d,C.H,0,C.l),s,s)
+else if(r==null)x=B.ab3
 else{w=t.glV()
 v=C.j.aJ(r.a[w-1].length+6-1,6)
 u=C.j.d1(C.j.aJ(t.gS_()-1,6),0,v-1)
 w=t.z
 x=A.Pw(w,s,A.a([H.ajz(new D.bY9(t,u),u),new A.mQ(C.hN,H.ajz(new D.bYa(t,u),v-u),w)],y.p))}w=A.d(F.kw(t.glV()),s,s,s,s,s,s,s,s,s)
-return A.aL(A.aO(A.a([A.bP(s,s,s,s,C.Is,s,s,t.gaiv(),s,s,s,"\u0627\u0633\u062a\u0645\u0639 \u0644\u0644\u0633\u0648\u0631\u0629",s),A.bP(s,s,s,s,B.atp,s,s,t.gaNS(),s,s,s,"\u062d\u062c\u0645 \u0627\u0644\u062e\u0637",s)],y.p),s,s,!0,!0,B.ED,s,1,s,s,s,!1,s,!1,B.qj,s,s,s,!0,s,s,s,s,s,w,s,s,s,1,s,!0),B.afj,x,s,s,s,s,s,s)}}
+return A.aL(A.aO(A.a([A.bP(s,s,s,s,C.Is,s,s,t.gaiv(),s,s,s,"\u0627\u0633\u062a\u0645\u0639 \u0644\u0644\u0633\u0648\u0631\u0629",s),A.bP(s,s,s,s,B.ats,s,s,t.gaNS(),s,s,s,"\u062d\u062c\u0645 \u0627\u0644\u062e\u0637",s)],y.p),s,s,!0,!0,B.EG,s,1,s,s,s,!1,s,!1,B.qj,s,s,s,!0,s,s,s,s,s,w,s,s,s,1,s,!0),B.afi,x,s,s,s,s,s,s)}}
 D.DK.prototype={
 O(){return new D.ays()}}
 D.ays.prototype={
 W(){this.Z()
 F.aXh().bK(new D.c03(this),y.a).ff(new D.c04())},
 QP(d,e){var x=null
-return A.eY(B.aqP,x,A.d(d,x,x,x,x,x,C.eI,x,x,x),new D.c01(e),x)},
+return A.eY(B.aqR,x,A.d(d,x,x,x,x,x,C.eI,x,x,x),new D.c01(e),x)},
 t(d){var x=this,w=null,v=x.QP("tanzil.net","https://tanzil.net"),u=A.u(10),t=x.d,s=y.p
-return L.xZ(w,A.a([new E.dG(A.J(A.a([B.by6,C.I,B.bnP,v,A.E(w,A.p1(t==null?"Tanzil Quran Text (Uthmani, Version 1.1)\nCopyright (C) 2007-2026 Tanzil Project\nLicense: Creative Commons Attribution 3.0":t,B.bkb,w,C.z),C.k,w,w,new A.G(C.q6,w,w,u,w,w,w,C.n),w,w,w,w,C.bQ,w,w,1/0)],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),new E.dG(A.J(A.a([B.bzw,C.I,B.brO,x.QP("github.com/aliftype/amiri","https://github.com/aliftype/amiri"),x.QP("openfontlicense.org","https://openfontlicense.org")],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),new E.dG(A.J(A.a([B.bB8,C.I,B.byM,x.QP("mp3quran.net","https://www.mp3quran.net/ar")],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),B.an2,B.an1],s),"\u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0648\u0627\u0644\u062a\u0631\u0627\u062e\u064a\u0635")}}
+return L.xZ(w,A.a([new E.dG(A.J(A.a([B.by4,C.I,B.bnT,v,A.E(w,A.p1(t==null?"Tanzil Quran Text (Uthmani, Version 1.1)\nCopyright (C) 2007-2026 Tanzil Project\nLicense: Creative Commons Attribution 3.0":t,B.bke,w,C.z),C.k,w,w,new A.G(C.q6,w,w,u,w,w,w,C.n),w,w,w,w,C.bQ,w,w,1/0)],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),new E.dG(A.J(A.a([B.bzv,C.I,B.brR,x.QP("github.com/aliftype/amiri","https://github.com/aliftype/amiri"),x.QP("openfontlicense.org","https://openfontlicense.org")],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),new E.dG(A.J(A.a([B.bB9,C.I,B.byK,x.QP("mp3quran.net","https://www.mp3quran.net/ar")],s),C.r,C.d,C.e,0,C.l),C.a9,C.aO,w,!1,w),B.an1,B.an0],s),"\u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0648\u0627\u0644\u062a\u0631\u0627\u062e\u064a\u0635")}}
 var z=a.updateTypes(["xP(t)","al<~>()","DK(t)","~()","bH(oT)","al<~>(a3)"])
 D.bO_.prototype={
 $0(){return this.a.e=this.b},
@@ -432,7 +432,7 @@ $0(){var x=y.z
 return A.O(this.a,!1).aD(A.aH(new D.bO5(),null,x),x)},
 $S:0}
 D.bO5.prototype={
-$1(d){return B.bDi},
+$1(d){return B.bDk},
 $S:z+2}
 D.bO7.prototype={
 $0(){var x=this.a,w=x.e
@@ -509,7 +509,7 @@ D.bY0.prototype={
 $2(d,e){var x,w=null,v=this.a,u=v.w
 u=H.cmN(13,E.bp(C.f.ak(u)),44,18,D.cPH(),new D.bY_(v,e),w,u)
 x=v.x?"AmiriQuranMT":w
-return A.cw(!0,new A.A(B.akZ,A.J(A.a([B.btD,u,A.d("\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u064e\u0651\u0647\u0650",w,w,w,w,w,A.bC(w,w,w,w,w,w,w,w,x,w,w,v.w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w)],y.p),C.h,C.d,C.H,0,C.l),w),C.G,!0)},
+return A.cw(!0,new A.A(B.akY,A.J(A.a([B.btE,u,A.d("\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u064e\u0651\u0647\u0650",w,w,w,w,w,A.bC(w,w,w,w,w,w,w,w,x,w,w,v.w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w),w,w,w)],y.p),C.h,C.d,C.H,0,C.l),w),C.G,!0)},
 $S:284}
 D.bY_.prototype={
 $1(d){var x
@@ -525,11 +525,11 @@ $0(){return this.a.w=this.b},
 $S:0}
 D.bXW.prototype={
 $1(d){var x=this,w=null,v=x.a,u=v.glV(),t=x.b,s=A.d(F.kw(u)+" \u2014 \u0622\u064a\u0629 "+E.bp(t),w,w,w,w,w,C.bC,w,w,w),r=E.bp(D.crx(u,t))
-u=B.bat.n(0,new A.V(u,t))?" \u2022 \u0645\u0648\u0636\u0639 \u0633\u062c\u062f\u0629":""
+u=B.baw.n(0,new A.V(u,t))?" \u2022 \u0645\u0648\u0636\u0639 \u0633\u062c\u062f\u0629":""
 s=A.ca(!1,w,w,w,!0,w,w,w,!0,w,w,w,w,w,w,w,w,!1,w,w,w,w,w,A.d("\u0627\u0644\u062c\u0632\u0621 "+r+u,w,w,w,w,w,w,w,w,w),w,s,w,w,w)
 u=x.c
-r=A.aZ(u?B.HI:B.anE,C.p,w,w)
-return A.cw(!0,A.J(A.a([s,A.ca(!1,w,w,w,!0,w,w,w,!0,w,w,r,w,w,w,w,new D.bXU(v,d,t),!1,w,w,w,w,w,w,w,A.d(u?"\u062f\u064a \u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629 \u0644\u064a\u0643":"\u0639\u0644\u0651\u0645 \u0647\u0646\u0627 (\u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629)",w,w,w,w,w,w,w,w,w),w,w,w),A.ca(!1,w,w,w,!0,w,w,w,!0,w,w,B.aqe,w,w,w,w,new D.bXV(v,d,x.d,t),!1,w,w,w,w,w,w,w,B.bCw,w,w,w)],y.p),C.h,C.d,C.H,0,C.l),C.G,!0)},
+r=A.aX(u?B.HK:B.anD,C.p,w,w)
+return A.cw(!0,A.J(A.a([s,A.ca(!1,w,w,w,!0,w,w,w,!0,w,w,r,w,w,w,w,new D.bXU(v,d,t),!1,w,w,w,w,w,w,w,A.d(u?"\u062f\u064a \u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629 \u0644\u064a\u0643":"\u0639\u0644\u0651\u0645 \u0647\u0646\u0627 (\u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629)",w,w,w,w,w,w,w,w,w),w,w,w),A.ca(!1,w,w,w,!0,w,w,w,!0,w,w,B.aqf,w,w,w,w,new D.bXV(v,d,x.d,t),!1,w,w,w,w,w,w,w,B.bCy,w,w,w)],y.p),C.h,C.d,C.H,0,C.l),C.G,!0)},
 $S:36}
 D.bXU.prototype={
 $0(){var x=0,w=A.j(y.H),v,u=this,t,s
@@ -608,116 +608,116 @@ w(D.Oj,A.a2)
 w(D.axj,A.GE)})()
 A.pw(b.typeUniverse,JSON.parse('{"xP":{"K":[],"l":[]},"DK":{"K":[],"l":[]},"xb":{"K":[],"l":[]},"aus":{"N":["xb"]},"Oj":{"a2":[],"l":[]},"axj":{"aI":[]},"a34":{"N":["xP"]},"ays":{"N":["DK"]}}'))
 var y=(function rtii(){var x=A.af
-return{M:x("eg<M>"),G:x("H<al<a7?>>"),R:x("H<hT>"),v:x("H<f8>"),p:x("H<l>"),A:x("bE<N<K>>"),P:x("aD<o,@>"),a:x("bH"),K:x("a7"),x:x("oT"),N:x("o"),q:x("pt"),b:x("bf<Y?>"),y:x("M"),i:x("a3"),z:x("@"),X:x("a7?"),o:x("+(x,x)?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+return{M:x("eh<M>"),G:x("H<al<a7?>>"),R:x("H<hT>"),v:x("H<f8>"),p:x("H<l>"),A:x("bE<N<K>>"),P:x("aD<o,@>"),a:x("bH"),K:x("a7"),x:x("oT"),N:x("o"),q:x("pt"),b:x("bf<Y?>"),y:x("M"),i:x("a3"),z:x("@"),X:x("a7?"),o:x("+(x,x)?"),H:x("~")}})();(function constants(){var x=a.makeConstList
 B.qj=new A.Y(1,0.11764705882352941,0.10196078431372549,0.07058823529411765,C.t)
 B.a2o=new A.v(!0,B.qj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bxq=new A.m("\u0628\u0646\u062c\u0647\u0651\u0632 \u0627\u0644\u0645\u0635\u062d\u0641\u2026",null,B.a2o,null,null,null,null,null,null,null,null)
-B.aMW=x([C.jy,C.v,B.bxq],y.p)
-B.afZ=new A.fj(C.y,C.d,C.H,C.h,null,C.l,null,0,B.aMW,null)
-B.ab4=new A.cd(C.P,null,null,B.afZ,null)
-B.ED=new A.Y(1,0.9529411764705882,0.9058823529411765,0.788235294117647,C.t)
-B.af3=new A.Y(1,0.5411764705882353,0.39215686274509803,0.09019607843137255,C.t)
-B.EV=new A.Y(1,0.7215686274509804,0.5254901960784314,0.16862745098039217,C.t)
-B.af8=new A.Y(1,0.35294117647058826,0.24313725490196078,0.043137254901960784,C.t)
-B.afj=new A.Y(1,0.984313725490196,0.9647058823529412,0.9176470588235294,C.t)
-B.ajX=new A.T(0,24,0,40)
-B.akZ=new A.T(20,16,20,20)
-B.bu0=new A.m("\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u0627\u0644\u0645\u0648\u0627\u0642\u064a\u062a \u0648\u0627\u0644\u0642\u0628\u0644\u0629",null,G.bF,null,null,null,null,null,null,null,null)
+B.aN_=x([C.jy,C.v,B.bxq],y.p)
+B.afY=new A.fj(C.y,C.d,C.H,C.h,null,C.l,null,0,B.aN_,null)
+B.ab3=new A.cd(C.P,null,null,B.afY,null)
+B.EG=new A.Y(1,0.9529411764705882,0.9058823529411765,0.788235294117647,C.t)
+B.af2=new A.Y(1,0.5411764705882353,0.39215686274509803,0.09019607843137255,C.t)
+B.EY=new A.Y(1,0.7215686274509804,0.5254901960784314,0.16862745098039217,C.t)
+B.af7=new A.Y(1,0.35294117647058826,0.24313725490196078,0.043137254901960784,C.t)
+B.afi=new A.Y(1,0.984313725490196,0.9647058823529412,0.9176470588235294,C.t)
+B.ajW=new A.T(0,24,0,40)
+B.akY=new A.T(20,16,20,20)
+B.bu2=new A.m("\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u0627\u0644\u0645\u0648\u0627\u0642\u064a\u062a \u0648\u0627\u0644\u0642\u0628\u0644\u0629",null,G.bF,null,null,null,null,null,null,null,null)
 B.bzU=new A.m("\u0627\u0644\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0647\u062c\u0631\u064a \u0628\u062a\u0642\u0648\u064a\u0645 \u0623\u0645 \u0627\u0644\u0642\u0631\u0649 (\u062d\u0633\u0627\u0628 \u0641\u0644\u0643\u064a) \u0648\u0642\u062f \u064a\u062e\u062a\u0644\u0641 \u064a\u0648\u0645 \u0639\u0646 \u0631\u0624\u064a\u0629 \u0627\u0644\u0647\u0644\u0627\u0644 \u0627\u0644\u0645\u0639\u0644\u0646\u0629 \u0641\u064a \u0628\u0644\u062f\u0643 (\u0632\u064a \u062f\u0627\u0631 \u0627\u0644\u0625\u0641\u062a\u0627\u0621 \u0627\u0644\u0645\u0635\u0631\u064a\u0629). \u0645\u0648\u0627\u0642\u064a\u062a \u0627\u0644\u0635\u0644\u0627\u0629 \u0628\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062c\u0647\u0629 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0641\u064a \u0643\u0644 \u0628\u0644\u062f (\u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0645\u0633\u0627\u062d\u0629 \u0641\u064a \u0645\u0635\u0631\u060c \u0623\u0645 \u0627\u0644\u0642\u0631\u0649 \u0641\u064a \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u060c \u0623\u0648\u0642\u0627\u0641 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u2026\u060c \u0648\u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a \u0644\u063a\u064a\u0631\u0647\u0627) \u0648\u062a\u0642\u062f\u0631 \u062a\u063a\u064a\u0651\u0631\u0647\u0627 \u0645\u0646 \xab\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u062d\u0633\u0627\u0628\xbb. \u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0642\u0628\u0644\u0629 \u0645\u062d\u0633\u0648\u0628 \u0628\u0623\u0642\u0635\u0631 \u0645\u0633\u0627\u0631 \u0639\u0644\u0649 \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629 \u0644\u0644\u0643\u0639\u0628\u0629 \u0627\u0644\u0645\u0634\u0631\u0641\u0629.",null,C.aP,null,null,null,null,null,null,null,null)
-B.aPL=x([B.bu0,C.I,B.bzU],y.p)
-B.ag1=new A.fj(C.y,C.d,C.e,C.r,null,C.l,null,0,B.aPL,null)
-B.an1=new E.dG(B.ag1,C.a9,C.aO,null,!1,null)
-B.bph=new A.m("\u0627\u0644\u0623\u0630\u0643\u0627\u0631",null,G.bF,null,null,null,null,null,null,null,null)
-B.br6=new A.m("\u0645\u0646 \u0643\u062a\u0627\u0628 \xab\u062d\u0635\u0646 \u0627\u0644\u0645\u0633\u0644\u0645\xbb \u0644\u0644\u0634\u064a\u062e \u0633\u0639\u064a\u062f \u0628\u0646 \u0639\u0644\u064a \u0628\u0646 \u0648\u0647\u0641 \u0627\u0644\u0642\u062d\u0637\u0627\u0646\u064a\u060c \u0645\u0639 \u0630\u0643\u0631 \u0645\u0635\u062f\u0631 \u0643\u0644 \u062d\u062f\u064a\u062b \u0628\u0627\u062e\u062a\u0635\u0627\u0631. \u0627\u0644\u0622\u064a\u0627\u062a \u0645\u0646 \u0646\u0635 \u062a\u0646\u0632\u064a\u0644.",null,C.aP,null,null,null,null,null,null,null,null)
-B.aJN=x([B.bph,C.I,B.br6],y.p)
-B.ag5=new A.fj(C.y,C.d,C.e,C.r,null,C.l,null,0,B.aJN,null)
-B.an2=new E.dG(B.ag5,C.a9,C.aO,null,!1,null)
-B.anE=new A.R(61152,"MaterialIcons",null,!1)
-B.HI=new A.R(62929,"MaterialIcons",null,!1)
-B.aqe=new A.F(C.r0,null,C.p,null,null,null)
-B.aqP=new A.F(C.r7,16,C.x,null,null,null)
-B.ark=new A.F(B.HI,null,C.x,null,null,null)
-B.asp=new A.F(K.HM,null,null,null,null,null)
-B.aoQ=new A.R(63384,"MaterialIcons",null,!1)
-B.atp=new A.F(B.aoQ,null,null,null,null,null)
-B.avn=new A.F(C.nF,18,null,null,null,null)
-B.b0D=new A.V(1,1)
-B.b0R=new A.V(2,142)
-B.b0S=new A.V(2,253)
-B.b11=new A.V(3,93)
-B.b18=new A.V(4,24)
-B.b17=new A.V(4,148)
-B.b1e=new A.V(5,82)
-B.b1h=new A.V(6,111)
-B.b1n=new A.V(7,88)
-B.b1s=new A.V(8,41)
-B.b1v=new A.V(9,93)
-B.b0r=new A.V(11,6)
-B.b0s=new A.V(12,53)
-B.b0u=new A.V(15,1)
-B.b0w=new A.V(17,1)
-B.b0y=new A.V(18,75)
-B.b0E=new A.V(21,1)
-B.b0I=new A.V(23,1)
-B.b0J=new A.V(25,21)
-B.b0M=new A.V(27,56)
-B.b0N=new A.V(29,46)
-B.b0V=new A.V(33,31)
-B.b0W=new A.V(36,28)
-B.b0Y=new A.V(39,32)
-B.b13=new A.V(41,47)
-B.b14=new A.V(46,1)
-B.b1b=new A.V(51,31)
-B.b1d=new A.V(58,1)
-B.b1g=new A.V(67,1)
-B.b1k=new A.V(78,1)
-B.MI=x([B.b0D,B.b0R,B.b0S,B.b11,B.b18,B.b17,B.b1e,B.b1h,B.b1n,B.b1s,B.b1v,B.b0r,B.b0s,B.b0u,B.b0w,B.b0y,B.b0E,B.b0I,B.b0J,B.b0M,B.b0N,B.b0V,B.b0W,B.b0Y,B.b13,B.b14,B.b1b,B.b1d,B.b1g,B.b1k],A.af("H<+(x,x)>"))
-B.ap6=new A.R(63582,"MaterialIcons",null,!0)
-B.atO=new A.F(B.ap6,null,null,null,null,null)
-B.boN=new A.m("\u0627\u0644\u0633\u0648\u0631",null,null,null,null,null,null,null,null,null,null)
-B.a8X=new A.eg(!1,B.atO,B.boN,y.M)
-B.ap3=new A.R(63559,"MaterialIcons",null,!1)
-B.asX=new A.F(B.ap3,null,null,null,null,null)
+B.aPO=x([B.bu2,C.I,B.bzU],y.p)
+B.ag0=new A.fj(C.y,C.d,C.e,C.r,null,C.l,null,0,B.aPO,null)
+B.an0=new E.dG(B.ag0,C.a9,C.aO,null,!1,null)
+B.bpm=new A.m("\u0627\u0644\u0623\u0630\u0643\u0627\u0631",null,G.bF,null,null,null,null,null,null,null,null)
+B.br8=new A.m("\u0645\u0646 \u0643\u062a\u0627\u0628 \xab\u062d\u0635\u0646 \u0627\u0644\u0645\u0633\u0644\u0645\xbb \u0644\u0644\u0634\u064a\u062e \u0633\u0639\u064a\u062f \u0628\u0646 \u0639\u0644\u064a \u0628\u0646 \u0648\u0647\u0641 \u0627\u0644\u0642\u062d\u0637\u0627\u0646\u064a\u060c \u0645\u0639 \u0630\u0643\u0631 \u0645\u0635\u062f\u0631 \u0643\u0644 \u062d\u062f\u064a\u062b \u0628\u0627\u062e\u062a\u0635\u0627\u0631. \u0627\u0644\u0622\u064a\u0627\u062a \u0645\u0646 \u0646\u0635 \u062a\u0646\u0632\u064a\u0644.",null,C.aP,null,null,null,null,null,null,null,null)
+B.aJR=x([B.bpm,C.I,B.br8],y.p)
+B.ag4=new A.fj(C.y,C.d,C.e,C.r,null,C.l,null,0,B.aJR,null)
+B.an1=new E.dG(B.ag4,C.a9,C.aO,null,!1,null)
+B.anD=new A.P(61152,"MaterialIcons",null,!1)
+B.HK=new A.P(62929,"MaterialIcons",null,!1)
+B.aqf=new A.F(C.r0,null,C.p,null,null,null)
+B.aqR=new A.F(C.r7,16,C.x,null,null,null)
+B.arm=new A.F(B.HK,null,C.x,null,null,null)
+B.asr=new A.F(K.HO,null,null,null,null,null)
+B.aoR=new A.P(63384,"MaterialIcons",null,!1)
+B.ats=new A.F(B.aoR,null,null,null,null,null)
+B.avq=new A.F(C.nF,18,null,null,null,null)
+B.b0G=new A.V(1,1)
+B.b0U=new A.V(2,142)
+B.b0V=new A.V(2,253)
+B.b13=new A.V(3,93)
+B.b1a=new A.V(4,24)
+B.b19=new A.V(4,148)
+B.b1g=new A.V(5,82)
+B.b1j=new A.V(6,111)
+B.b1p=new A.V(7,88)
+B.b1u=new A.V(8,41)
+B.b1x=new A.V(9,93)
+B.b0u=new A.V(11,6)
+B.b0v=new A.V(12,53)
+B.b0x=new A.V(15,1)
+B.b0z=new A.V(17,1)
+B.b0B=new A.V(18,75)
+B.b0H=new A.V(21,1)
+B.b0L=new A.V(23,1)
+B.b0M=new A.V(25,21)
+B.b0P=new A.V(27,56)
+B.b0Q=new A.V(29,46)
+B.b0Y=new A.V(33,31)
+B.b0Z=new A.V(36,28)
+B.b10=new A.V(39,32)
+B.b15=new A.V(41,47)
+B.b16=new A.V(46,1)
+B.b1d=new A.V(51,31)
+B.b1f=new A.V(58,1)
+B.b1i=new A.V(67,1)
+B.b1m=new A.V(78,1)
+B.MI=x([B.b0G,B.b0U,B.b0V,B.b13,B.b1a,B.b19,B.b1g,B.b1j,B.b1p,B.b1u,B.b1x,B.b0u,B.b0v,B.b0x,B.b0z,B.b0B,B.b0H,B.b0L,B.b0M,B.b0P,B.b0Q,B.b0Y,B.b0Z,B.b10,B.b15,B.b16,B.b1d,B.b1f,B.b1i,B.b1m],A.af("H<+(x,x)>"))
+B.ap7=new A.P(63582,"MaterialIcons",null,!0)
+B.atR=new A.F(B.ap7,null,null,null,null,null)
+B.boR=new A.m("\u0627\u0644\u0633\u0648\u0631",null,null,null,null,null,null,null,null,null,null)
+B.a8W=new A.eh(!1,B.atR,B.boR,y.M)
+B.ap4=new A.P(63559,"MaterialIcons",null,!1)
+B.at_=new A.F(B.ap4,null,null,null,null,null)
 B.bAs=new A.m("\u0627\u0644\u0623\u062c\u0632\u0627\u0621",null,null,null,null,null,null,null,null,null,null)
-B.a8Q=new A.eg(!0,B.asX,B.bAs,y.M)
-B.aNJ=x([B.a8X,B.a8Q],A.af("H<eg<M>>"))
-B.b1m=new A.V(7,206)
-B.b0t=new A.V(13,15)
-B.b0v=new A.V(16,50)
-B.b0x=new A.V(17,109)
-B.b0z=new A.V(19,58)
-B.b0F=new A.V(22,18)
-B.b0H=new A.V(22,77)
-B.b0K=new A.V(25,60)
-B.b0L=new A.V(27,26)
-B.b0U=new A.V(32,15)
-B.b0X=new A.V(38,24)
-B.b12=new A.V(41,38)
-B.b1c=new A.V(53,62)
-B.b1q=new A.V(84,21)
-B.b1u=new A.V(96,19)
-B.bat=new A.hd([B.b1m,B.b0t,B.b0v,B.b0x,B.b0z,B.b0F,B.b0H,B.b0K,B.b0L,B.b0U,B.b0X,B.b12,B.b1c,B.b1q,B.b1u],A.af("hd<+(x,x)>"))
+B.a8P=new A.eh(!0,B.at_,B.bAs,y.M)
+B.aNM=x([B.a8W,B.a8P],A.af("H<eh<M>>"))
+B.b1o=new A.V(7,206)
+B.b0w=new A.V(13,15)
+B.b0y=new A.V(16,50)
+B.b0A=new A.V(17,109)
+B.b0C=new A.V(19,58)
+B.b0I=new A.V(22,18)
+B.b0K=new A.V(22,77)
+B.b0N=new A.V(25,60)
+B.b0O=new A.V(27,26)
+B.b0X=new A.V(32,15)
+B.b1_=new A.V(38,24)
+B.b14=new A.V(41,38)
+B.b1e=new A.V(53,62)
+B.b1s=new A.V(84,21)
+B.b1w=new A.V(96,19)
+B.baw=new A.hd([B.b1o,B.b0w,B.b0y,B.b0A,B.b0C,B.b0I,B.b0K,B.b0N,B.b0O,B.b0X,B.b1_,B.b14,B.b1e,B.b1s,B.b1w],A.af("hd<+(x,x)>"))
 B.bAp=new A.m("\u0645\u0641\u064a\u0634 \u0633\u0648\u0631\u0629 \u0628\u0627\u0644\u0627\u0633\u0645 \u062f\u0647",null,C.aP,C.X,null,null,null,null,null,null,null)
-B.aYi=new A.A(C.b8,B.bAp,null)
-B.bcs=new A.mR(B.aYi,null)
-B.aei=new A.Y(0.2,0.8784313725490196,0.6980392156862745,0.30980392156862746,C.t)
-B.bi4=new A.v(!0,null,B.aei,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.afw=new A.Y(1,0.4196078431372549,0.35294117647058826,0.20784313725490197,C.t)
-B.bk3=new A.v(!0,B.afw,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bkb=new A.v(!0,C.av,null,"monospace",null,null,11,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.afn=new A.Y(0.10196078431372549,0.10588235294117647,0.22745098039215686,0.43137254901960786,C.t)
-B.bkC=new A.v(!0,null,B.afn,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bnP=new A.m("\u0646\u0635 \u0627\u0644\u0645\u0635\u062d\u0641 (\u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a) \u0645\u0646 \u0645\u0634\u0631\u0648\u0639 \u062a\u0646\u0632\u064a\u0644 Tanzil\u060c \u0645\u0646\u0642\u0648\u0644 \u062d\u0631\u0641\u064a\u0627\u064b \u0645\u0646 \u063a\u064a\u0631 \u0623\u064a \u062a\u0639\u062f\u064a\u0644\u060c \u0628\u062a\u0631\u062e\u064a\u0635 \u0627\u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0625\u0628\u062f\u0627\u0639\u064a (CC BY 3.0). \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0633\u0648\u0631 \u0648\u0627\u0644\u0623\u062c\u0632\u0627\u0621 \u0645\u0646 \u062a\u0646\u0632\u064a\u0644 \u0643\u0645\u0627\u0646.",null,C.aP,null,null,null,null,null,null,null,null)
-B.boD=new A.m("\u0627\u0633\u062a\u0645\u0639 \u0644\u0644\u0633\u0648\u0631\u0629",null,C.cb,null,null,null,null,null,null,null,null)
-B.bq6=new A.m("\u0627\u0644\u0645\u0635\u062d\u0641",null,null,null,null,null,null,null,null,null,null)
-B.brO=new A.m("\u062e\u0637 \xab\u0623\u0645\u064a\u0631\u064a \u0642\u0631\u0622\u0646\xbb Amiri Quran \u2014 Copyright 2010-2022 The Amiri Quran Project Authors\u060c \u0628\u062a\u0631\u062e\u064a\u0635 SIL Open Font License 1.1.",null,C.aP,null,null,null,null,null,null,null,null)
-B.btD=new A.m("\u062d\u062c\u0645 \u0627\u0644\u062e\u0637",null,C.cj,null,null,null,null,null,null,null,null)
-B.by6=new A.m("\u0646\u0635 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",null,G.bF,null,null,null,null,null,null,null,null)
-B.byM=new A.m("\u0627\u0644\u062a\u0644\u0627\u0648\u0627\u062a \u0645\u0646 \u0645\u0648\u0642\u0639 mp3quran.net \u2014 \u0628\u064a\u062a\u064a\u062d \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u0648\u0627\u062f\u0647 \u0648\u0631\u0648\u0627\u0628\u0637\u0647 \u0644\u0644\u062c\u0645\u064a\u0639. \u0627\u0644\u0635\u0648\u062a \u0628\u064a\u062a\u0634\u063a\u0651\u0644 \u0645\u0628\u0627\u0634\u0631\u0629 \u0645\u0646 \u0633\u064a\u0631\u0641\u0631\u0627\u062a\u0647\u0645.",null,C.aP,null,null,null,null,null,null,null,null)
-B.bzw=new A.m("\u062e\u0637 \u0627\u0644\u0645\u0635\u062d\u0641",null,G.bF,null,null,null,null,null,null,null,null)
-B.bB4=new A.m("\u0645\u0639\u0631\u0641\u0646\u0627\u0634 \u0646\u062d\u0645\u0651\u0644 \u0627\u0644\u0645\u0635\u062d\u0641 \u2014 \u0627\u062a\u0623\u0643\u062f \u0645\u0646 \u0627\u0644\u0646\u062a \u0648\u062c\u0631\u0651\u0628 \u062a\u0627\u0646\u064a",null,B.a2o,null,null,null,null,null,null,null,null)
-B.bB8=new A.m("\u0627\u0644\u062a\u0644\u0627\u0648\u0627\u062a (\u0627\u0633\u062a\u0645\u0627\u0639)",null,G.bF,null,null,null,null,null,null,null,null)
-B.bBA=new A.m("\u0643\u0645\u0651\u0644 \u0645\u0646 \u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629",null,C.fL,null,null,null,null,null,null,null,null)
-B.bCw=new A.m("\u0627\u0646\u0633\u062e \u0627\u0644\u0622\u064a\u0629",null,null,null,null,null,null,null,null,null,null)
-B.bDi=new D.DK(null)})()};
-(a=>{a["n3yhfnLV9r2ecm5gsC4QVkC2b0Y="]=a.current})($__dart_deferred_initializers__);
+B.aYm=new A.A(C.b8,B.bAp,null)
+B.bcv=new A.mR(B.aYm,null)
+B.aeh=new A.Y(0.2,0.8784313725490196,0.6980392156862745,0.30980392156862746,C.t)
+B.bi7=new A.v(!0,null,B.aeh,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.afv=new A.Y(1,0.4196078431372549,0.35294117647058826,0.20784313725490197,C.t)
+B.bk6=new A.v(!0,B.afv,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.bke=new A.v(!0,C.au,null,"monospace",null,null,11,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.afm=new A.Y(0.10196078431372549,0.10588235294117647,0.22745098039215686,0.43137254901960786,C.t)
+B.bkG=new A.v(!0,null,B.afm,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.bnT=new A.m("\u0646\u0635 \u0627\u0644\u0645\u0635\u062d\u0641 (\u0627\u0644\u0631\u0633\u0645 \u0627\u0644\u0639\u062b\u0645\u0627\u0646\u064a) \u0645\u0646 \u0645\u0634\u0631\u0648\u0639 \u062a\u0646\u0632\u064a\u0644 Tanzil\u060c \u0645\u0646\u0642\u0648\u0644 \u062d\u0631\u0641\u064a\u0627\u064b \u0645\u0646 \u063a\u064a\u0631 \u0623\u064a \u062a\u0639\u062f\u064a\u0644\u060c \u0628\u062a\u0631\u062e\u064a\u0635 \u0627\u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0625\u0628\u062f\u0627\u0639\u064a (CC BY 3.0). \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0633\u0648\u0631 \u0648\u0627\u0644\u0623\u062c\u0632\u0627\u0621 \u0645\u0646 \u062a\u0646\u0632\u064a\u0644 \u0643\u0645\u0627\u0646.",null,C.aP,null,null,null,null,null,null,null,null)
+B.boH=new A.m("\u0627\u0633\u062a\u0645\u0639 \u0644\u0644\u0633\u0648\u0631\u0629",null,C.cb,null,null,null,null,null,null,null,null)
+B.bqa=new A.m("\u0627\u0644\u0645\u0635\u062d\u0641",null,null,null,null,null,null,null,null,null,null)
+B.brR=new A.m("\u062e\u0637 \xab\u0623\u0645\u064a\u0631\u064a \u0642\u0631\u0622\u0646\xbb Amiri Quran \u2014 Copyright 2010-2022 The Amiri Quran Project Authors\u060c \u0628\u062a\u0631\u062e\u064a\u0635 SIL Open Font License 1.1.",null,C.aP,null,null,null,null,null,null,null,null)
+B.btE=new A.m("\u062d\u062c\u0645 \u0627\u0644\u062e\u0637",null,C.cj,null,null,null,null,null,null,null,null)
+B.by4=new A.m("\u0646\u0635 \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645",null,G.bF,null,null,null,null,null,null,null,null)
+B.byK=new A.m("\u0627\u0644\u062a\u0644\u0627\u0648\u0627\u062a \u0645\u0646 \u0645\u0648\u0642\u0639 mp3quran.net \u2014 \u0628\u064a\u062a\u064a\u062d \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u0648\u0627\u062f\u0647 \u0648\u0631\u0648\u0627\u0628\u0637\u0647 \u0644\u0644\u062c\u0645\u064a\u0639. \u0627\u0644\u0635\u0648\u062a \u0628\u064a\u062a\u0634\u063a\u0651\u0644 \u0645\u0628\u0627\u0634\u0631\u0629 \u0645\u0646 \u0633\u064a\u0631\u0641\u0631\u0627\u062a\u0647\u0645.",null,C.aP,null,null,null,null,null,null,null,null)
+B.bzv=new A.m("\u062e\u0637 \u0627\u0644\u0645\u0635\u062d\u0641",null,G.bF,null,null,null,null,null,null,null,null)
+B.bB5=new A.m("\u0645\u0639\u0631\u0641\u0646\u0627\u0634 \u0646\u062d\u0645\u0651\u0644 \u0627\u0644\u0645\u0635\u062d\u0641 \u2014 \u0627\u062a\u0623\u0643\u062f \u0645\u0646 \u0627\u0644\u0646\u062a \u0648\u062c\u0631\u0651\u0628 \u062a\u0627\u0646\u064a",null,B.a2o,null,null,null,null,null,null,null,null)
+B.bB9=new A.m("\u0627\u0644\u062a\u0644\u0627\u0648\u0627\u062a (\u0627\u0633\u062a\u0645\u0627\u0639)",null,G.bF,null,null,null,null,null,null,null,null)
+B.bBB=new A.m("\u0643\u0645\u0651\u0644 \u0645\u0646 \u0622\u062e\u0631 \u0642\u0631\u0627\u0621\u0629",null,C.fL,null,null,null,null,null,null,null,null)
+B.bCy=new A.m("\u0627\u0646\u0633\u062e \u0627\u0644\u0622\u064a\u0629",null,null,null,null,null,null,null,null,null,null)
+B.bDk=new D.DK(null)})()};
+(a=>{a["ZQQChXOhRFGnAkpaKywEdS2xfno="]=a.current})($__dart_deferred_initializers__);
