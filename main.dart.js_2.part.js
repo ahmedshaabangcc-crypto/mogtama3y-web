@@ -1,9 +1,9 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-aXh(){var x=$.cdK
-return x==null?$.cdK=new B.aXi().$0():x},
-cDd(d){var x,w,v,u,t,s,r,q,p,o,n,m=J.k9(114,y.B)
-for(x=y.w,w=0;w<114;++w)m[w]=A.ch(D.cX[w].a[1],"",!1,x)
+aXj(){var x=$.cdW
+return x==null?$.cdW=new B.aXk().$0():x},
+cDp(d){var x,w,v,u,t,s,r,q,p,o,n,m=J.k9(114,y.B)
+for(x=y.w,w=0;w<114;++w)m[w]=A.ci(D.cY[w].a[1],"",!1,x)
 v=new A.dN("")
 for(x=d.split("\n"),u=x.length,t=0;t<u;++t){s=x[t]
 r=C.c.hm(s,"\r")?C.c.a7(s,0,s.length-1):s
@@ -16,15 +16,15 @@ o=A.dX(C.c.a7(r,0,q),null)
 n=A.dX(C.c.a7(r,q+1,p),null)
 if(o==null||n==null||o<1||o>114||n<1||n>m[o-1].length)continue
 m[o-1][n-1]=C.c.cc(r,p+1)}x=v.a
-return new B.oT(m,C.c.LW(x.charCodeAt(0)==0?x:x))},
-Nz(d,e,f){var x,w,v
-if(d===1||d===9||e!==1)return new A.Mp(null,f)
+return new B.oU(m,C.c.LX(x.charCodeAt(0)==0?x:x))},
+NA(d,e,f){var x,w,v
+if(d===1||d===9||e!==1)return new A.Mr(null,f)
 x=A.a(f.split(" "),y.x)
 if(x.length>4){w=y.w
-v=A.fi(x,0,A.ip(4,"count",y.C),w).aq(0," ")
-if(B.c99(v)===$.cv3())return new A.Mp(v,A.fi(x,4,null,w).aq(0," "))}return new A.Mp(null,f)},
-c99(d){var x,w,v,u=new A.dN("")
-for(x=new A.Jp(d);x.v();){w=x.d
+v=A.fi(x,0,A.ip(4,"count",y.C),w).ap(0," ")
+if(B.c9l(v)===$.cvf())return new A.Mr(v,A.fi(x,4,null,w).ap(0," "))}return new A.Mr(null,f)},
+c9l(d){var x,w,v,u=new A.dN("")
+for(x=new A.Jr(d);x.v();){w=x.d
 v=!0
 if(!(w>=1611&&w<=1631))if(w!==1648)v=w>=1750&&w<=1773||w===1600
 if(v)continue
@@ -37,7 +37,7 @@ u.a+=v
 break A}v=A.eJ(w)
 u.a+=v}}x=u.a
 return C.c.K(x.charCodeAt(0)==0?x:x).toLowerCase()},
-csp(d){var x,w,v,u,t,s,r={},q=B.c99(B.cLT(d))
+csB(d){var x,w,v,u,t,s,r={},q=B.c9l(B.cM4(d))
 r.a=q
 r.a=C.c.K(C.c.fM(q,A.aB("^\u0633\u0648\u0631\u0647\\s*",!0,!1,!1),""))
 x=y.r
@@ -46,23 +46,23 @@ for(v=1;v<=114;++v)w.push(v)
 u=r.a
 if(u.length===0)return w
 t=A.dX(u,null)
-if(t!=null)return t>=1&&t<=114?A.a([t],x):C.t_
+if(t!=null)return t>=1&&t<=114?A.a([t],x):C.t0
 x=r.a
 u=A.aB("[\\s'\\-]",!0,!1,!1)
 s=y.a
-x=A.a9(new A.ah(w,new B.cah(r,A.bD(x,u,"")),s),s.i("X.E"))
+x=A.a9(new A.ah(w,new B.cat(r,A.bC(x,u,"")),s),s.i("X.E"))
 return x},
-cLT(d){return A.v9(d,A.aB("[\u0660-\u0669]",!0,!1,!1),new B.c6V(),null)},
-oT:function oT(d,e){this.a=d
+cM4(d){return A.va(d,A.aB("[\u0660-\u0669]",!0,!1,!1),new B.c76(),null)},
+oU:function oU(d,e){this.a=d
 this.b=e},
-aXi:function aXi(){},
-cah:function cah(d,e){this.a=d
+aXk:function aXk(){},
+cat:function cat(d,e){this.a=d
 this.b=e},
-c6V:function c6V(){},
-cdJ(){var x=$.clX
-return x==null?$.clX=new B.aXe().$0():x},
-kw(d){return"\u0633\u0648\u0631\u0629 "+D.cX[d-1].a[0]},
-aXe:function aXe(){}},E,F,D
+c76:function c76(){},
+cdV(){var x=$.cm8
+return x==null?$.cm8=new B.aXg().$0():x},
+kw(d){return"\u0633\u0648\u0631\u0629 "+D.cY[d-1].a[0]},
+aXg:function aXg(){}},E,F,D
 J=c[1]
 A=c[0]
 C=c[2]
@@ -70,20 +70,20 @@ B=a.updateHolder(c[13],B)
 E=c[33]
 F=c[14]
 D=c[25]
-B.oT.prototype={
-yi(d,e){return this.a[d-1][e-1]}}
-var z=a.updateTypes(["al<oT>()"])
-B.aXi.prototype={
+B.oU.prototype={
+yj(d,e){return this.a[d-1][e-1]}}
+var z=a.updateTypes(["al<oU>()"])
+B.aXk.prototype={
 $0(){var x=0,w=A.j(y.u),v,u=2,t=[],s,r,q,p,o
 var $async$$0=A.e(function(d,e){if(d===1){t.push(e)
 x=u}for(;;)switch(x){case 0:u=4
 x=7
-return A.c($.vg().l7("assets/quran/quran-uthmani.txt.gz"),$async$$0)
+return A.c($.vh().l7("assets/quran/quran-uthmani.txt.gz"),$async$$0)
 case 7:s=e
 x=8
-return A.c(F.aBu(J.fD(J.cbH(s),s.byteOffset,s.byteLength)),$async$$0)
+return A.c(F.aBw(J.fD(J.cbT(s),s.byteOffset,s.byteLength)),$async$$0)
 case 8:r=e
-q=B.cDd(r)
+q=B.cDp(r)
 v=q
 x=1
 break
@@ -92,7 +92,7 @@ x=6
 break
 case 4:u=3
 o=t.pop()
-$.cdK=null
+$.cdW=null
 throw o
 x=6
 break
@@ -102,28 +102,28 @@ case 6:case 1:return A.h(v,w)
 case 2:return A.f(t.at(-1),w)}})
 return A.i($async$$0,w)},
 $S:z+0}
-B.cah.prototype={
-$1(d){var x=d-1,w=B.c99(D.cX[x].a[0]),v=this.a
+B.cat.prototype={
+$1(d){var x=d-1,w=B.c9l(D.cY[x].a[0]),v=this.a
 if(C.c.n(w,v.a)||C.c.n(C.c.fM(w,A.aB("^\u0627\u0644",!0,!1,!1),""),v.a))return!0
-x=D.cX[x].a[3]
+x=D.cY[x].a[3]
 v=A.aB("[\\s'\\-]",!0,!1,!1)
-return C.c.n(A.bD(x.toLowerCase(),v,""),this.b)},
+return C.c.n(A.bC(x.toLowerCase(),v,""),this.b)},
 $S:78}
-B.c6V.prototype={
+B.c76.prototype={
 $1(d){var x=d.h(0,0)
 x.toString
 return""+(x.charCodeAt(0)-1632)},
 $S:56}
-B.aXe.prototype={
+B.aXg.prototype={
 $0(){var x=0,w=A.j(y.e),v,u=2,t=[],s,r,q,p
 var $async$$0=A.e(function(d,e){if(d===1){t.push(e)
 x=u}for(;;)switch(x){case 0:u=4
-r=new A.abo("AmiriQuranMT",A.a([],y.p))
-r.apg($.vg().l7("assets/quran/AmiriQuran-Regular.ttf"))
+r=new A.abp("AmiriQuranMT",A.a([],y.p))
+r.aph($.vh().l7("assets/quran/AmiriQuran-Regular.ttf"))
 s=r
 x=7
 return A.c(s.vV(),$async$$0)
-case 7:$.clY=!0
+case 7:$.cm9=!0
 v=!0
 x=1
 break
@@ -143,11 +143,11 @@ case 6:case 1:return A.h(v,w)
 case 2:return A.f(t.at(-1),w)}})
 return A.i($async$$0,w)},
 $S:197};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.oT,A.a7)
-w(A.lh,[B.aXi,B.aXe])
-w(A.iN,[B.cah,B.c6V])})()
-var y={p:A.af("H<al<l_>>"),x:A.af("H<o>"),r:A.af("H<x>"),B:A.af("a6<o>"),u:A.af("oT"),w:A.af("o"),a:A.af("ah<x>"),e:A.af("M"),C:A.af("x")};(function constants(){E.BW=new A.eT(" ",null,null,C.bz,null,null,null,null,null,null,null)})();(function staticFields(){$.cdK=null
-$.clX=null
-$.clY=!1})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"cUZ","cv3",()=>B.c99("\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0640\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650"))})()};
-(a=>{a["9hMSb7jlUebvl89f9+leYrfAcQ8="]=a.current})($__dart_deferred_initializers__);
+x(B.oU,A.a7)
+w(A.lh,[B.aXk,B.aXg])
+w(A.iN,[B.cat,B.c76])})()
+var y={p:A.ag("H<al<l_>>"),x:A.ag("H<o>"),r:A.ag("H<x>"),B:A.ag("a6<o>"),u:A.ag("oU"),w:A.ag("o"),a:A.ag("ah<x>"),e:A.ag("M"),C:A.ag("x")};(function constants(){E.BZ=new A.eT(" ",null,null,C.bz,null,null,null,null,null,null,null)})();(function staticFields(){$.cdW=null
+$.cm8=null
+$.cm9=!1})();(function lazyInitializers(){var x=a.lazyFinal
+x($,"cVa","cvf",()=>B.c9l("\u0628\u0650\u0633\u0652\u0645\u0650 \u0671\u0644\u0644\u0651\u064e\u0647\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0652\u0645\u064e\u0640\u0670\u0646\u0650 \u0671\u0644\u0631\u0651\u064e\u062d\u0650\u064a\u0645\u0650"))})()};
+(a=>{a["doMLSIC1b2kd0jfbGlO5Mq3MY+E="]=a.current})($__dart_deferred_initializers__);
